@@ -1,0 +1,25 @@
+{
+  "name": "lnk",
+  "version": "1.0.0",
+  "description": "Extract details from .lnk files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinuulong/lnk.git"
+  },
+  "keywords": [
+    "lnk"
+  ],
+  "author": "Kevin Long <kevinuulong@gmail.com> (https://kevinuulong.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevinuulong/lnk/issues"
+  },
+  "homepage": "https://github.com/kevinuulong/lnk#readme",
+  "dependencies": {
+    "node-powershell": "^4.0.0"
+  }
+}
